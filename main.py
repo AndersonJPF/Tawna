@@ -78,3 +78,4 @@ def intro():
 intro()
 fight(Tawna, Sarah)
 print('Tawna has won!!')
+print('Sarah has lost!')
