@@ -1,0 +1,69 @@
+TAWNA E O CÉU ESCARLATE
+
+PRÓLOGO
+
+	"Não se sabe ao certo quando isso começou
+	monstros, guerras, ameaças
+	aquela primeira noite foi o momento mais triste da humanidade
+	várias almas perdidas, corações e laços rompidos"
+
+	"Filha, você ainda é muito nova para tudo isso
+	não posso exigir muito de você
+	espero que tenha uma boa vida com seu pai
+	quando eu voltar, vai ser no dia em que tudo estará acabado"
+
+
+-- Dialogo consigo mesma
+
+	- Finalmente, a idade mínima
+	- Hora de sair dessa espelunca, não vejo a hora de te ver denovo mamãe.
+
+-- Dialogo com o Pai
+
+	P - Filha
+	T - Oi?
+	P - Você tem certeza de que quer fazer isso? sua mãe não vai gostar
+	T - claro Pai, ninguém sabe pelo que a mamãe está passando, finalmente chegou o dia de me juntar a ela nisso tudo
+	P - Imaginei que você dissesse isso... infelizmente não posso te deixar continuar.
+	T - Pai, já conversamos sobre isso... eu treinei minha infância toda pra esse momento, ninguém nessa ilha é mais capacitada do que eu!
+	P - Eu imagino filha, mas a Ilha Victória não é um lugar pra brincadeiras, como eu poderia viver todos os dias com você correndo esse perigo!?
+	T - Pai, por favor... a mamãe foi pra lá pela primeira vez com apenas 12 anos!! ainda nem existia o exame de admissão naquela época, e mesmo assim ela voltou sã e salva.
+	P - Ai ai... não tem como te convencer né? uma certa parte de mim quer que você descubra esse mundo por sí só... apenas me prometa uma coisa, Tawna.
+	T - O que, pai? qualquer coisa para agradar o senhor!!
+	P - Quando você ver que as coisas estão ruins, volte o mais rápido possível pra casa, ok?
+	T - tudo bem, Pai. Vou apenas trazer a mamãe de volta rapidinho, relaxe!
+	P - hahaha, se apenas fosse tão fácil... mas tudo bem, uma promessa entre nós.
+	T - Adeus, pai. Até logo...
+
+-- ABERTURA
+
+-- Dialogos aleatórios pela cidade
+
+PERSONAGEM NOVA: SARAH
+
+	Não gosta da Tawna, acha soberba da parte dela querer fazer o exame de admissão sendo muito nova. Fica praticando bullying com ela, apesar de não funcionar muito.
+
+	S - Haha! olha só quem vem aí, se não é a aspirante a nova aventureira da cidade.
+	T - ...
+	S - Você realmente acha que com esse corpo mole consegue vencer aquele exame impossivel?
+	T - Sinto muito, sarah, mas não dá de conversar agora...
+	S - kkkkkk, se você não tem coragem nem de me enfrentar, como acha que vai vencer as provações?
+	T - E o que você quer que eu faça? fique que nem você, uma covarde?
+	S - Hmpf... você e aquela garota de cabelos enrolados, sempre se achando as rainhas do mundo.
+	S - Como se tudo fosse possível na base da vontade.
+	S - Se eu, uma atleta e lutadora nata, já falhei por 3 vezes seguidas, você acha que com 16 aninhos e um coração alegre será o suficiente? mesmo sendo esperta e ágil, você é muito novinha ainda.
+	T - Olha... eu realmente desejo muito encontrar minha mãe, mesmo que eu tenha que enfrentar coisas surreais
+	T - Sinto que a cada segundo que perco, a situaçao dela pode piorar.
+	S - Você só irá se matar...
+	T - Haha! você tem é medo de uma menina mais jovem que você ser capaz de vencer a prova...
+	T - Se não me engano, a tal menina dos cabelos enrolados é mais nova que você também...
+	T - Esse seu orgulho frágil apenas mostra sua incapacidade de vencer a prova...
+	S - ...Pois bem então, estava tentando lhe incentivar a desistir apenas com palavras, mas tô vendo que não dá certo.
+	S - ...então terei que resolver isso na base da força. Não me culpe se quebrar seu corpo hahahah
+	T - Sempre na base do soco, você sempre foi assim.
+	S - Que seja! você vai me agradecer depois, pois estou salvando sua vida te impedindo de ir àquela ilha amaldiçoada.
+	T - Vem pra cima então!
+
+ -- LUTA OBRIGATÓRIA --
+
+	*Servirá como um tutorial para as lutas do jogo*
