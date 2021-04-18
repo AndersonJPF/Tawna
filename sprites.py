@@ -6,22 +6,26 @@ answer_B = ["B", "b"]
 answer_C = ["C", "c"]
 
 def attack(user, target):
-    target.hp -= user.strength
-    print(user.name + ' attacks!')
-    time.sleep(2)
-    print(user.name + ' deals ' + str(user.strength) + ' damage on ' + target.name + '!')
+    evasion = random.randrange(1, 101)
+    if evasion <= target.agility:
+        print(user.name + ' missed!')
+    else:
+        target.hp -= user.strength
+        print(user.name + ' attacks!')
+        time.sleep(0.2)
+        print(user.name + ' deals ' + str(user.strength) + ' damage on ' + target.name + '!')
 
 def fight(player, foe):
     print(player.name + ' will fight ' + foe.name + '!')
     time.sleep(1)
     while player.hp > 0 and foe.hp > 0:
         print('O que {} irá fazer?'.format(player.name))
-        time.sleep(1)
+        time.sleep(0.1)
 
         print ("""      A. Attack
         B. Attack
         C. Attack""")
-        time.sleep(1)
+        time.sleep(0.1)
 
         choice = input('>>> ')
 
@@ -39,14 +43,16 @@ def fight(player, foe):
 class Player():
     def __init__(self):
         self.name = "Tawna"
-        self.hp = 30
+        self.hp = 300
         self.strength = 10
+        self.agility = 12
 
 class Enemy():
     def __init__(self):
         self.name = "Sarah"
-        self.hp = 25
+        self.hp = 250
         self.strength = 8
+        self.agility = 7
 
 Tawna = Player()
 Sarah = Enemy()

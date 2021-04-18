@@ -75,7 +75,5 @@ def intro():
     quote("T - Vem pra cima então!")
 
 
-intro()
+#intro()
 fight(Tawna, Sarah)
-print('Tawna has won!!')
-print('I am good')
